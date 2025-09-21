@@ -8,20 +8,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/oktay-esen-a392b41bb/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://youtube.com/@code-1-1?si=3yO14kQItNF1vCZr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-  <a href="oktayesenn@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
 <h3 align="left">About Me</h3>
 
 ###
@@ -74,7 +60,21 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">Socials</h3>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/oktay-esen-a392b41bb/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://youtube.com/@code-1-1?si=3yO14kQItNF1vCZr" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+  <a href="oktayesenn@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
 
 ###
 
