@@ -1,3 +1,5 @@
+<div style="font-family: monospace;">
+
 <h1 align="center">Hey there, this is my profile.</h1>
 
 ###
@@ -71,10 +73,9 @@
   <a href="https://youtube.com/@code-1-1?si=3yO14kQItNF1vCZr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
-  <a href="oktayesenn@gmail.com" target="_blank">
+  <a href="mailto:oktayesenn@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
 
-
-###
+</div>
